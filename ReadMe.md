@@ -43,3 +43,7 @@ Round 4: Water#10 has advantage over Fire#12 (Type Advantage)
 Round 5: Fighting#6 has advantage over Grass#2 (level advantage)
 
 Thus 3/5 battles are in advantage position in this order.
+
+# Approach
+
+![img.png](img.png)

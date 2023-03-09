@@ -3,7 +3,7 @@ package GetReady;
 import java.util.*;
 import Battle.MatchPokes;
 
-public class Initialize implements MatchPokes {
+public class Initialize implements MatchPokes{
     public Map<String, Pokemons> pokemons = new LinkedHashMap<>();
 
     public Initialize(String squad) {
