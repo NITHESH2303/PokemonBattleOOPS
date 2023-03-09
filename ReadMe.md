@@ -46,4 +46,4 @@ Thus 3/5 battles are in advantage position in this order.
 
 # Approach Schema
 
-![img.png](img.png)
+!![img.png](schema.png)
