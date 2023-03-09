@@ -27,23 +27,23 @@ Fire#1;Fighting#1;Water#100;Electric#12;Ghost#10
 
 The output of the program should be to give a sequence in which I should arrange my mopokens so that I get the advantage on at least 3 of the 5 battles. If I do not get advantage of 3 out of 5, it should intimate that with an error message that "There are no chance of winning"
 
-Sample Input:
+<b>Sample Input:</b>
 
 Fire#10;Water#20;Fighting#6;Psychic#10;Electric#12
 Water#10;Fighting#10;Psychic#10;Fire#12;Grass#2
 
-The output should be:
+<b>The output should be:</b>
 Electric#12;Fire#10;Psychic#10;Water#20;Fighting#6
 
-Explanation:
-Round 1: Electric#12 has advantage than Water#10 (Type and level advantage)
-Round 2: Fire#10 and Fighting#10 may result in a draw
-Round 3: Psychic#10 vs Psychic#10 may result in a draw
-Round 4: Water#10 has advantage over Fire#12 (Type Advantage)
-Round 5: Fighting#6 has advantage over Grass#2 (level advantage)
+<b>Explanation:</b><br>
+Round 1: Electric#12 has advantage than Water#10 (Type and level advantage)<br>
+Round 2: Fire#10 and Fighting#10 may result in a draw<br>
+Round 3: Psychic#10 vs Psychic#10 may result in a draw<br>
+Round 4: Water#10 has advantage over Fire#12 (Type Advantage)<br>
+Round 5: Fighting#6 has advantage over Grass#2 (level advantage)<br>
 
 Thus 3/5 battles are in advantage position in this order.
 
-# Approach
+# Approach Schema
 
 ![img.png](img.png)
